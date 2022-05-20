@@ -1,6 +1,6 @@
 # Installation serveur NFS
 
-## I/ En resumé qu’est-ce que NFS ? <br>
+## I/ En resumé qu’est-ce qu'un serveur NFS ? <br>
 <p>
 Le serveur NFS (Network File System) ,qui est un protocole permettant à un ordinateur d'accéder à des fichiers extérieurs via un réseau.
 </p> 

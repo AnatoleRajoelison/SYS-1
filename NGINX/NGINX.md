@@ -1,6 +1,6 @@
 # Installation serveur NGINX
 
-## I/ En résumé qu’est-ce que NGINX? <br>
+## I/ En résumé qu’est-ce qu'un serveur NGINX? <br>
 <p>
 Nginx a été créé à l’origine par Igor Sysoev,il est prononcé comme « engine-ex », est un serveur web open-source qui, depuis son succès initial en tant que serveur web, est maintenant 
 aussi utilisé comme reverse proxy, cache HTTP, et load balancer.

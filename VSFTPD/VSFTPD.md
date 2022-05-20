@@ -1,6 +1,10 @@
 # Installation serveur VSFTPD
 
-## I/ Comment installer VSFTPD?
+## I/ En résumer qu’est-ce qu’un serveur VSFTPD? <br>
+
+VsFTPd est un serveur FTP(File Transfer Protocol) conçu avec la problématique d'une sécurité maximale. Contrairement aux autres serveurs FTP (ProFTPd, PureFTPd, etc.), aucune faille majeure de sécurité n'a jamais été décelée dans VsFTPd.
+
+## II/ Comment installer VSFTPD?
 
 1-Il faut se connecter en tant que super utilisateur (root)
 
@@ -8,7 +12,7 @@
 
 		 apt-get install vsftpd
 
-## II/ Comment configurer VSFTPD?
+## III/ Comment configurer VSFTPD?
 
 1-Configurons maintenant entrons dans le dossier etc
 

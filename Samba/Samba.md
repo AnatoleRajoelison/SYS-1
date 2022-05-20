@@ -1,6 +1,6 @@
 # Installation serveur SAMBA 
 
-## I/ En résumer qu’est-ce que SAMBA ? <br>
+## I/ En résumer qu’est-ce qu'un serveur SAMBA ? <br>
 
 <p>
 Samba est une réimplémentation gratuite et open-source du protocole de partage de 
